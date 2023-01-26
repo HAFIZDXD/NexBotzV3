@@ -25,11 +25,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/hafizd75__'
+global.sig = 'https://instagram.com/mintz.kurniawan345'
 global.syt = 'https://youtube.com/@HafizdXD'
 global.sgh = 'https://github.com/HafizdXD'
 global.sgc = 'https://chat.whatsapp.com/DIkriX7GUEoAef3UWFxfSN'
-global.swa = 'wa.me/6285758862225'
+global.swa = 'wa.me/6281575491917'
 global.swb = '-'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -42,19 +42,19 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285839507805'
-global.nomorown = '6285758862225'
-global.nomorown1 = '6285758862225'
-global.namebot = 'MakimaBotz'
-global.nameown = 'HafizdXD'
+global.nomorbot = '6281578230758'
+global.nomorown = '6281575491917'
+global.nomorown1 = '6281575491917'
+global.namebot = 'MintzBotz'
+global.nameown = 'Mintz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285758862225'],
-  ['6285758862225'],
+  ['6281575491917'],
+  ['6281575491917'],
   ['18126338970'],
-  ['6285758862225', 'HafizdXD', true]
+  ['6281575491917', 'Mintz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -104,14 +104,14 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By MakimaBotz' //Main Watermark
-global.wm2 = 'HafizdXD'
-global.wm3 = 'MakimaBotz | By HafizdXD'
+global.wm = 'By MintzBotz' //Main Watermark
+global.wm2 = 'Mintz'
+global.wm3 = 'MintzBotz | By mintz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `MakimaBotz | ʙʏ ${global.nameown}`
-global.author = 'HafizdXD' 
-global.packname = 'Haf8zdXD'
+global.titlebot = `Mintz | ʙʏ ${global.nameown}`
+global.author = 'Mintz' 
+global.packname = 'MintzBotz'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Juli 4 2023'
 
